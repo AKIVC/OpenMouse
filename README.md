@@ -1,1 +1,3 @@
 # OpenMouse
+
+OpenMouse is an open source functional gaming mouse designed to be comfortable, responsive, and easy to modify. The main mouse is built around an NRF52840 SoC and a PAW3395DM optical sensor. A dedicated USB receiver dongle will be built around a second NRF52840 SoC allowing me to create my own 2.4Ghz wireless protocol. In addition to the electronics I will design both PCBs, a 3D printable case, and all the firmware for both the mouse and receiver. This project interests me because I believe it would give me a serious challenge but not one that I can't overcome, and also I think it will be very enjoyable/informative.
