@@ -3,7 +3,7 @@ title: "OpenMouse"
 github: "https://github.com/AKIVC/OpenMouse"
 description: "OpenMouse is an open source functional gaming mouse designed to be comfortable, responsive, and easy to modify. The main mouse is built around an NRF52840 SoC and a PAW3395DM optical sensor. A dedicated USB receiver dongle will be built around a second NRF52840 SoC allowing me to create my own 2.4Ghz wireless protocol. In addition to the electronics I will design both PCBs, a 3D printable case, and all the firmware for both the mouse and receiver. This project interests me because I believe it would give me a serious challenge but not one that I can't overcome, and also I think it will be very enjoyable/informative."
 created_at: "2026-11-11"
-total_time: "1h 42m"
+total_time: "5h 6m"
 ---
 
 # November 12, 2026: Project Start/Basic progress
@@ -25,3 +25,30 @@ Before starting work I took a look at the datasheet for the nRF52840 and found a
 Timelapse: <https://lapse.hackclub.com/timelapse/fVRQVh-SORgb>
 
 **Total time spent: 42m**
+
+# November 21, 2026: Added mouse sensor, BMS, and rotary encoder
+<!-- fabricate:entry 3670 -->
+
+During this session I finally added the mouse sensor YAY, the schematic is starting to look like a functional design. I also added the Lithium Ion Battery Management System to protect/charge the battery I will be putting in here along with the rotary encoder for the scroll wheel.
+
+Timelapse: <https://lapse.hackclub.com/timelapse/oycs3rXanCYY>
+
+**Total time spent: 1h 12m**
+
+# November 22, 2026: Added mouse sensor, BMS, and rotary encoder
+<!-- fabricate:entry 3724 -->
+
+During this session I finally added the mouse sensor YAY, the schematic is starting to look like a functional design. I also added the Lithium Ion Battery Management System to protect/charge the battery I will be putting in here along with the rotary encoder for the scroll wheel.
+
+Timelapse: <https://lapse.hackclub.com/timelapse/oycs3rXanCYY>
+
+**Total time spent: 1h 12m**
+
+# November 22, 2026 (entry 2): Finished the Schematic
+<!-- fabricate:entry 3725 -->
+
+During this session I finished the schematic by adding the left/right buttons along with the middle button and two auxiliary buttons. I also started the PCB design and I got all the components into a rough place where I think I want them.
+
+Timelapse: <https://lapse.hackclub.com/timelapse/IenzZnoxjK1z>
+
+**Total time spent: 1h**
