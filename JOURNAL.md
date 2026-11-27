@@ -3,7 +3,7 @@ title: "OpenMouse"
 github: "https://github.com/AKIVC/OpenMouse"
 description: "OpenMouse is an open source functional gaming mouse designed to be comfortable, responsive, and easy to modify. The main mouse is built around an NRF52840 SoC and a PAW3395DM optical sensor. A dedicated USB receiver dongle will be built around a second NRF52840 SoC allowing me to create my own 2.4Ghz wireless protocol. In addition to the electronics I will design both PCBs, a 3D printable case, and all the firmware for both the mouse and receiver. This project interests me because I believe it would give me a serious challenge but not one that I can't overcome, and also I think it will be very enjoyable/informative."
 created_at: "2026-11-11"
-total_time: "5h 6m"
+total_time: "6h 48m"
 ---
 
 # November 12, 2026: Project Start/Basic progress
@@ -52,3 +52,13 @@ During this session I finished the schematic by adding the left/right buttons al
 Timelapse: <https://lapse.hackclub.com/timelapse/IenzZnoxjK1z>
 
 **Total time spent: 1h**
+
+# November 27, 2026: Routed Antenna and Crystals
+<!-- fabricate:entry 4065 -->
+
+During this session I began the routing of the main MCU after finishing my first draft of the component layout. I got the antenna trace down and also added the keep out zones to isolate the antenna line. After this I routed both the high speed crystal oscillator and the slower one. I also added the silkscreen markings for the flashing header.
+
+Timelapse: <https://lapse.hackclub.com/timelapse/yRqlMV4U_MYT>
+Timelapse: <https://lapse.hackclub.com/timelapse/-JKXgqcgVCvn>
+
+**Total time spent: 1h 42m**
